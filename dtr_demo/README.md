@@ -1,1 +1,1 @@
-
+HayatiChip SoC DTR Tasarımı. Vivado 2021.2 uyumlu entegrasyon.
